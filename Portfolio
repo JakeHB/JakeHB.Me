@@ -1,0 +1,20 @@
+<<!DOCTYPE HTML>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html" />
+	<meta name="author" content="JakeHB" />
+  
+	<title>Untitled 1</title>
+</head>
+
+<body>
+
+  <div class="navbar">
+    <div id="About">About</div>
+    <div id="Projects">Projects</div>
+    <div id="Contact">Contact</div>
+  </div>
+
+
+</body>
+</html>
